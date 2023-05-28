@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+This is the official homepage of the OWASP Student Chapter of D.Y. Patil International University Pune. We are a community of cybersecurity enthusiasts with a common aim to share knowledge, promote awareness, and collaborate on improving and exploring the cyber space.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
