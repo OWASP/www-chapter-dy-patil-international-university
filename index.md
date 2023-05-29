@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP DY Patil International University
-tags: example-tag
+tags: DYPIU
 region: Asia
 meetup-group:
 
